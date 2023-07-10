@@ -1,15 +1,36 @@
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LongBaoCoder2&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LongBaoCoder2&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LongBaoCoder2&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img alt="banner" style="width:100vw" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 👋 Hi there 
 
+- 🔭 I’m VU TRUNG DUC
+- 🌱 Sinh viên trường Đại học Công Nghệ đại học Quốc Gia Hà Nội
+- 5 tiêu chí của tôi:
+  + Uy tín
+  + Chất lượng
+  + Nhiệt tình
+  + Nhanh chóng
+  + Lâu dài
+- Mình nhận hỗ trợ các môn liên quan đến lập trình C/C++/C#, SQL, Unity2D, và các môn đại cương khác
+- Mọi liên hệ qua fb hoặc số điện thoại: 0342041436
+- Rất vui và mong chờ có thể làm việc với bạn!
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyentbao1006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nguy_ntlb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/long-bao-5a0557272/) 
+# 🛠 Languages and Tools
 
+<div align="center">
+<img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/null/c-sharp-logo-2.png"/>
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=LongBaoCoder2&icon=4&color=3)](https://visitcount.itsvg.in)
+<img src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"/>
+<svg style="color: red" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PyTorch</title><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z" fill="red"></path></svg>
+<img src="https://icons8.com/icon/NfbyHexzVEDk/react"/>
+  
+</div>
+
+# 🌐️ Connect with me
+
+<div align="center">
+<a href="https://www.facebook.com/profile.php?id=100022133502790"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+</div>
+
+<a style="text-align:right" href="https://github.com/ducvu25/ducvu25/tree/main">Source README</a>
