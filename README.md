@@ -9,7 +9,6 @@
 <div align="center">
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/c-sharp-logo-2.png"/>
-<img src="![image](https://github.com/LongBaoCoder2/LongBaoCoder2/assets/114165590/a08b84d2-93e0-4d5a-aa14-dfbbf4eaca3d)"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/tensorflow.png"/>
   
