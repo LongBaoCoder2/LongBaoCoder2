@@ -12,6 +12,8 @@
 
 
 # 😎 About me
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 - 🔭 I’m Nguyen Long Bao
 - 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
 - 💚 
