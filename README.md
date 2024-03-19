@@ -19,8 +19,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
-  <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
-  <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+  <a href="https://www.linkedin.com/in/nglbao/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </div>
 
 
