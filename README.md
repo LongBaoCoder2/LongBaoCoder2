@@ -9,19 +9,24 @@
 </div>
 
 
-
-
+<!--- <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
 # 😎 About me
-
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
-- 🔭 I’m Nguyen Long Bao
+- 🔭 I’m Nguyen Long Bao &nbsp;
 - 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
 - 💚 
+
+# 🌐️ Connect with me
+
+<div align="center">
+  <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+  <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+  <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
+</div>
 
 
 # 🛠 Languages and Tools
 
-<div>
+<div id="badge" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
@@ -33,10 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 </div>
 
-# 🌐️ Connect with me
 
-<div align="center">
-<a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
-</div>
 
 ![Snake animation](https://raw.githubusercontent.com/LongBaoCoder2/LongBaoCoder2/output/github-contribution-grid-snake-dark.svg)
