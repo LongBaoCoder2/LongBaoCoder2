@@ -33,4 +33,4 @@
 <a href="https://www.facebook.com/nguyentbao1006"><img src="https://img.icons8.com/color/48/null/facebook.png"/></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/LongBaoCoder2/LongBaoCoder2/output/github-contribution-grid-snake-dark.svg)
