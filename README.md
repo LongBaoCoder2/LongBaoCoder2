@@ -13,8 +13,8 @@
 # 😎 About me
 - 🔭 I’m Nguyen Long Bao &nbsp;
 - 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
-- 💚 
-
+- 💚
+- 
 # 🌐️ Connect with me
 
 <div align="center">
