@@ -40,3 +40,5 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/LongBaoCoder2/LongBaoCoder2/output/github-contribution-grid-snake-dark.svg)
+
+![](https://komarev.com/ghpvc/?username=LongBaoCoder2&abbreviated=true&color=brightgreen)
