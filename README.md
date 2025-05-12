@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="150px" height="150px" />
   <h1>
     <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9DEF9&width=435&lines=%E2%98%95+an+AI+Coder+fueled+by+coffee%F0%9F%90%A7+" alt="Typing SVG" /></a>
@@ -12,7 +13,7 @@
 - 🔭 I’m Nguyen Long Bao &nbsp;
 - 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
 - 💚
-<img alt="GIF" align="right" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="250px" height="250px" />
+
 
 
 # 🌐️ Connect with me
