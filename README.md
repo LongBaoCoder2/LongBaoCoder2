@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="150px" height="150px" />
   <h1>
     <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9DEF9&width=435&lines=%E2%98%95+an+AI+Coder+fueled+by+coffee%F0%9F%90%A7+%F0%9F%90%A7" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9DEF9&width=435&lines=%F0%9F%90%A7+an+AI+Coder+fueled+by+coffee" alt="Typing SVG" /></a>
   </h1>
   
 </div>
