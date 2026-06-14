@@ -10,10 +10,9 @@
 
 <!--- <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
 # 😎 About me
-- 🔭 I’m Nguyen Long Bao &nbsp;, an AI Engineer and a coffee lover. 🌱
-- 💚
-
-
+<div id="header" align="center">
+🔭 I’m Nguyen Long Bao &nbsp;, an AI Engineer and a coffee lover. 🌱
+</div>
 
 # 🌐️ Connect with me
 
