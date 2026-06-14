@@ -10,8 +10,7 @@
 
 <!--- <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300"> -->
 # 😎 About me
-- 🔭 I’m Nguyen Long Bao &nbsp;
-- 🌱 I'm a Computer Science student with a strong passion for coding and AI at Ho Chi Minh University of Science.
+- 🔭 I’m Nguyen Long Bao &nbsp;, an AI Engineer and a coffee lover. 🌱
 - 💚
 
 
